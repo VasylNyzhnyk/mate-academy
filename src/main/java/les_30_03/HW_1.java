@@ -8,7 +8,7 @@ package les_30_03;
 
 public class HW_1 {
     public static void main(String[] args) {
-        System.out.println(result(2, 2, 3, 4));
+        System.out.println(result(5, 2, 3, 4));
     }
 
     public static int result(int a, int b, int c, int d) {
